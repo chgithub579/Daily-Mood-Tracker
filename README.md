@@ -1,15 +1,5 @@
-In this project let's build an **Daily Mood Tracker Application** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
+Daily Mood Tracker is a React application that helps users track their daily moods. This project demonstrates practical use of concepts learned in the React course, including component-based architecture, routing, authentication and authorization, and responsive design. The app fetches data from an internal server and applies real-world React techniques to create an interactive and user-friendly experience.
 
-You will demonstrate your skills by creating an app that will fetch data from an internal server using a component, routing concepts, authentication and authorization, and adding responsiveness to the website
-
-This is an individual assessment. All work must be your own. You can request for the feedback after your project submission in the discussions.
-
-### Prerequisites
-
-#### UI Prerequisites
-
-<details>
-<summary>Click to view</summary>
 
 - What is Figma?
   - Figma is a vector graphics editor and prototyping tool which is primarily web-based. You can check more info on the <a href="https://www.figma.com/" target="_blank">website</a>
