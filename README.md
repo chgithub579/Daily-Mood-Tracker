@@ -6,6 +6,7 @@ This is an individual assessment. All work must be your own. You can request for
 
 ### LIVE DEMO
 https://app.netlify.com/projects/daily-mood-tracker-application/overview
+https://daily-mood-tracker-application.netlify.app/
 
 ### Prerequisites
 
