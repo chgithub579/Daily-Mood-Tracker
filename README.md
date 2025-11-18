@@ -4,7 +4,11 @@ You will demonstrate your skills by creating an app that will fetch data from an
 
 This is an individual assessment. All work must be your own. You can request for the feedback after your project submission in the discussions.
 
+### LIVE DEMO
+https://app.netlify.com/projects/daily-mood-tracker-application/overview
+
 ### Prerequisites
+
 
 #### UI Prerequisites
 
